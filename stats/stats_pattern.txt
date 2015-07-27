@@ -1,0 +1,960 @@
+2-Colors F R1 D_REL1_v1
+Time: 157ms
+Dithered RMS: 207.579
+Dithered SNR: 137,267,711.46
+
+Time: 408ms
+Compressed Ratio: 5.999
+
+Time: 329ms
+Decompressed RMS: 208.151
+Decompressed SNR: 136,890,795.629
+
+2-Colors O R1 D_REL1_v1
+Time: 46ms
+Dithered RMS: 182.602
+Dithered SNR: 156,043,672.319
+
+Time: 404ms
+Compressed Ratio: 5.999
+
+Time: 369ms
+Decompressed RMS: 169.375
+Decompressed SNR: 168,229,660.533
+
+2-Colors J R1 D_REL1_v1
+Time: 218ms
+Dithered RMS: 206.719
+Dithered SNR: 137,838,982.096
+
+Time: 400ms
+Compressed Ratio: 5.999
+
+Time: 315ms
+Decompressed RMS: 207.073
+Decompressed SNR: 137,603,134.438
+
+2-Colors R R1 D_REL1_v1
+Time: 164ms
+Dithered RMS: 207.659
+Dithered SNR: 137,215,064.334
+
+Time: 400ms
+Compressed Ratio: 5.999
+
+Time: 317ms
+Decompressed RMS: 207.971
+Decompressed SNR: 137,009,136.419
+
+8-Colors F R1 D_REL1_v1
+Time: 178ms
+Dithered RMS: 195.999
+Dithered SNR: 145,377,586.777
+
+Time: 413ms
+Compressed Ratio: 5.999
+
+Time: 330ms
+Decompressed RMS: 196.626
+Decompressed SNR: 144,914,601.046
+
+8-Colors O R1 D_REL1_v1
+Time: 69ms
+Dithered RMS: 158.707
+Dithered SNR: 179,537,513.824
+
+Time: 413ms
+Compressed Ratio: 5.999
+
+Time: 375ms
+Decompressed RMS: 144.969
+Decompressed SNR: 196,551,370.705
+
+8-Colors J R1 D_REL1_v1
+Time: 238ms
+Dithered RMS: 194.844
+Dithered SNR: 146,239,903.402
+
+Time: 413ms
+Compressed Ratio: 5.999
+
+Time: 312ms
+Decompressed RMS: 195.727
+Decompressed SNR: 145,579,618.632
+
+8-Colors R R1 D_REL1_v1
+Time: 187ms
+Dithered RMS: 196.091
+Dithered SNR: 145,309,495.793
+
+Time: 414ms
+Compressed Ratio: 5.999
+
+Time: 319ms
+Decompressed RMS: 196.51
+Decompressed SNR: 144,999,897.352
+
+16-Colors F R1 D_REL1_v1
+Time: 215ms
+Dithered RMS: 67.93
+Dithered SNR: 419,461,504.667
+
+Time: 428ms
+Compressed Ratio: 5.999
+
+Time: 319ms
+Decompressed RMS: 69.249
+Decompressed SNR: 411,469,229.222
+
+16-Colors O R1 D_REL1_v1
+Time: 107ms
+Dithered RMS: 83.479
+Dithered SNR: 341,328,508.086
+
+Time: 442ms
+Compressed Ratio: 5.999
+
+Time: 376ms
+Decompressed RMS: 60.472
+Decompressed SNR: 471,188,111.61
+
+16-Colors J R1 D_REL1_v1
+Time: 278ms
+Dithered RMS: 65.18
+Dithered SNR: 437,156,332.018
+
+Time: 438ms
+Compressed Ratio: 5.999
+
+Time: 314ms
+Decompressed RMS: 66.787
+Decompressed SNR: 426,638,083.846
+
+16-Colors R R1 D_REL1_v1
+Time: 219ms
+Dithered RMS: 67.523
+Dithered SNR: 421,987,697.413
+
+Time: 429ms
+Compressed Ratio: 5.999
+
+Time: 322ms
+Decompressed RMS: 68.902
+Decompressed SNR: 413,545,088.179
+
+216-Colors F R1 D_REL1_v1
+Time: 932ms
+Dithered RMS: 31.172
+Dithered SNR: 914,077,355.897
+
+Time: 761ms
+Compressed Ratio: 5.999
+
+Time: 327ms
+Decompressed RMS: 33.947
+Decompressed SNR: 839,355,913.116
+
+216-Colors O R1 D_REL1_v1
+Time: 873ms
+Dithered RMS: 69.399
+Dithered SNR: 410,581,169.049
+
+Time: 864ms
+Compressed Ratio: 5.999
+
+Time: 372ms
+Decompressed RMS: 42.862
+Decompressed SNR: 664,784,695.478
+
+216-Colors J R1 D_REL1_v1
+Time: 1009ms
+Dithered RMS: 28.646
+Dithered SNR: 994,686,654.307
+
+Time: 762ms
+Compressed Ratio: 5.999
+
+Time: 317ms
+Decompressed RMS: 31.818
+Decompressed SNR: 895,532,810.777
+
+216-Colors R R1 D_REL1_v1
+Time: 941ms
+Dithered RMS: 30.686
+Dithered SNR: 928,574,673.715
+
+Time: 760ms
+Compressed Ratio: 5.999
+
+Time: 319ms
+Decompressed RMS: 33.53
+Decompressed SNR: 849,812,894.673
+
+2-Colors F R1 D_REL1_v2
+Time: 157ms
+Dithered RMS: 207.579
+Dithered SNR: 137,267,711.46
+
+Time: 398ms
+Compressed Ratio: 5.999
+
+Time: 340ms
+Decompressed RMS: 184.982
+Decompressed SNR: 154,036,446.984
+
+2-Colors O R1 D_REL1_v2
+Time: 48ms
+Dithered RMS: 182.602
+Dithered SNR: 156,043,672.319
+
+Time: 408ms
+Compressed Ratio: 5.999
+
+Time: 453ms
+Decompressed RMS: 159.547
+Decompressed SNR: 178,592,549.676
+
+2-Colors J R1 D_REL1_v2
+Time: 219ms
+Dithered RMS: 206.719
+Dithered SNR: 137,838,982.096
+
+Time: 401ms
+Compressed Ratio: 5.999
+
+Time: 321ms
+Decompressed RMS: 180.714
+Decompressed SNR: 157,674,442.079
+
+2-Colors R R1 D_REL1_v2
+Time: 164ms
+Dithered RMS: 207.659
+Dithered SNR: 137,215,064.334
+
+Time: 410ms
+Compressed Ratio: 5.999
+
+Time: 328ms
+Decompressed RMS: 182.578
+Decompressed SNR: 156,064,175.877
+
+8-Colors F R1 D_REL1_v2
+Time: 188ms
+Dithered RMS: 195.999
+Dithered SNR: 145,377,586.777
+
+Time: 442ms
+Compressed Ratio: 5.999
+
+Time: 360ms
+Decompressed RMS: 172.539
+Decompressed SNR: 165,144,427.83
+
+8-Colors O R1 D_REL1_v2
+Time: 72ms
+Dithered RMS: 158.707
+Dithered SNR: 179,537,513.824
+
+Time: 456ms
+Compressed Ratio: 5.999
+
+Time: 370ms
+Decompressed RMS: 137.195
+Decompressed SNR: 207,688,709.744
+
+8-Colors J R1 D_REL1_v2
+Time: 238ms
+Dithered RMS: 194.844
+Dithered SNR: 146,239,903.402
+
+Time: 421ms
+Compressed Ratio: 5.999
+
+Time: 332ms
+Decompressed RMS: 169.25
+Decompressed SNR: 168,354,392.519
+
+8-Colors R R1 D_REL1_v2
+Time: 188ms
+Dithered RMS: 196.091
+Dithered SNR: 145,309,495.793
+
+Time: 413ms
+Compressed Ratio: 5.999
+
+Time: 357ms
+Decompressed RMS: 168.571
+Decompressed SNR: 169,031,730.209
+
+16-Colors F R1 D_REL1_v2
+Time: 216ms
+Dithered RMS: 67.93
+Dithered SNR: 419,461,504.667
+
+Time: 440ms
+Compressed Ratio: 5.999
+
+Time: 336ms
+Decompressed RMS: 60.649
+Decompressed SNR: 469,815,306.786
+
+16-Colors O R1 D_REL1_v2
+Time: 118ms
+Dithered RMS: 83.479
+Dithered SNR: 341,328,508.086
+
+Time: 442ms
+Compressed Ratio: 5.999
+
+Time: 381ms
+Decompressed RMS: 55.179
+Decompressed SNR: 516,393,355.061
+
+16-Colors J R1 D_REL1_v2
+Time: 272ms
+Dithered RMS: 65.18
+Dithered SNR: 437,156,332.018
+
+Time: 449ms
+Compressed Ratio: 5.999
+
+Time: 320ms
+Decompressed RMS: 57.72
+Decompressed SNR: 493,658,014.064
+
+16-Colors R R1 D_REL1_v2
+Time: 221ms
+Dithered RMS: 67.523
+Dithered SNR: 421,987,697.413
+
+Time: 435ms
+Compressed Ratio: 5.999
+
+Time: 326ms
+Decompressed RMS: 59.522
+Decompressed SNR: 478,711,564.965
+
+216-Colors F R1 D_REL1_v2
+Time: 943ms
+Dithered RMS: 31.172
+Dithered SNR: 914,077,355.897
+
+Time: 759ms
+Compressed Ratio: 5.999
+
+Time: 337ms
+Decompressed RMS: 29.104
+Decompressed SNR: 979,054,364.133
+
+216-Colors O R1 D_REL1_v2
+Time: 869ms
+Dithered RMS: 69.399
+Dithered SNR: 410,581,169.049
+
+Time: 921ms
+Compressed Ratio: 5.999
+
+Time: 389ms
+Decompressed RMS: 38.426
+Decompressed SNR: 741,523,965.745
+
+216-Colors J R1 D_REL1_v2
+Time: 996ms
+Dithered RMS: 28.646
+Dithered SNR: 994,686,654.307
+
+Time: 759ms
+Compressed Ratio: 5.999
+
+Time: 321ms
+Decompressed RMS: 26.991
+Decompressed SNR: 1,055,689,877.381
+
+216-Colors R R1 D_REL1_v2
+Time: 948ms
+Dithered RMS: 30.686
+Dithered SNR: 928,574,673.715
+
+Time: 813ms
+Compressed Ratio: 5.999
+
+Time: 327ms
+Decompressed RMS: 28.313
+Decompressed SNR: 1,006,377,746.529
+
+2-Colors F R2 D_REL2
+Time: 166ms
+Dithered RMS: 207.579
+Dithered SNR: 137,267,711.46
+
+Time: 643ms
+Compressed Ratio: 4.799
+
+Time: 470ms
+Decompressed RMS: 207.579
+Decompressed SNR: 137,267,711.46
+
+2-Colors O R2 D_REL2
+Time: 46ms
+Dithered RMS: 182.602
+Dithered SNR: 156,043,672.319
+
+Time: 688ms
+Compressed Ratio: 4.799
+
+Time: 479ms
+Decompressed RMS: 182.602
+Decompressed SNR: 156,043,672.319
+
+2-Colors J R2 D_REL2
+Time: 218ms
+Dithered RMS: 206.719
+Dithered SNR: 137,838,982.096
+
+Time: 664ms
+Compressed Ratio: 4.799
+
+Time: 480ms
+Decompressed RMS: 206.719
+Decompressed SNR: 137,838,982.096
+
+2-Colors R R2 D_REL2
+Time: 163ms
+Dithered RMS: 207.659
+Dithered SNR: 137,215,064.334
+
+Time: 641ms
+Compressed Ratio: 4.799
+
+Time: 474ms
+Decompressed RMS: 207.659
+Decompressed SNR: 137,215,064.334
+
+8-Colors F R2 D_REL2
+Time: 179ms
+Dithered RMS: 195.999
+Dithered SNR: 145,377,586.777
+
+Time: 655ms
+Compressed Ratio: 4.799
+
+Time: 450ms
+Decompressed RMS: 195.999
+Decompressed SNR: 145,377,586.777
+
+8-Colors O R2 D_REL2
+Time: 70ms
+Dithered RMS: 158.707
+Dithered SNR: 179,537,513.824
+
+Time: 695ms
+Compressed Ratio: 4.799
+
+Time: 468ms
+Decompressed RMS: 158.707
+Decompressed SNR: 179,537,513.824
+
+8-Colors J R2 D_REL2
+Time: 236ms
+Dithered RMS: 194.844
+Dithered SNR: 146,239,903.402
+
+Time: 665ms
+Compressed Ratio: 4.799
+
+Time: 451ms
+Decompressed RMS: 194.844
+Decompressed SNR: 146,239,903.402
+
+8-Colors R R2 D_REL2
+Time: 188ms
+Dithered RMS: 196.091
+Dithered SNR: 145,309,495.793
+
+Time: 651ms
+Compressed Ratio: 4.799
+
+Time: 459ms
+Decompressed RMS: 196.091
+Decompressed SNR: 145,309,495.793
+
+16-Colors F R2 D_REL2
+Time: 213ms
+Dithered RMS: 67.93
+Dithered SNR: 419,461,504.667
+
+Time: 688ms
+Compressed Ratio: 4.799
+
+Time: 459ms
+Decompressed RMS: 72.284
+Decompressed SNR: 394,192,052.134
+
+16-Colors O R2 D_REL2
+Time: 111ms
+Dithered RMS: 83.479
+Dithered SNR: 341,328,508.086
+
+Time: 747ms
+Compressed Ratio: 4.799
+
+Time: 458ms
+Decompressed RMS: 83.836
+Decompressed SNR: 339,877,084.437
+
+16-Colors J R2 D_REL2
+Time: 272ms
+Dithered RMS: 65.18
+Dithered SNR: 437,156,332.018
+
+Time: 693ms
+Compressed Ratio: 4.799
+
+Time: 448ms
+Decompressed RMS: 69.106
+Decompressed SNR: 412,320,495.09
+
+16-Colors R R2 D_REL2
+Time: 221ms
+Dithered RMS: 67.523
+Dithered SNR: 421,987,697.413
+
+Time: 690ms
+Compressed Ratio: 4.799
+
+Time: 458ms
+Decompressed RMS: 71.801
+Decompressed SNR: 396,848,304.137
+
+216-Colors F R2 D_REL2
+Time: 963ms
+Dithered RMS: 31.172
+Dithered SNR: 914,077,355.897
+
+Time: 1174ms
+Compressed Ratio: 4.799
+
+Time: 452ms
+Decompressed RMS: 46.309
+Decompressed SNR: 615,297,068.435
+
+216-Colors O R2 D_REL2
+Time: 837ms
+Dithered RMS: 69.399
+Dithered SNR: 410,581,169.049
+
+Time: 1374ms
+Compressed Ratio: 4.799
+
+Time: 457ms
+Decompressed RMS: 72.11
+Decompressed SNR: 395,143,698.539
+
+216-Colors J R2 D_REL2
+Time: 1020ms
+Dithered RMS: 28.646
+Dithered SNR: 994,686,654.307
+
+Time: 1170ms
+Compressed Ratio: 4.799
+
+Time: 462ms
+Decompressed RMS: 45.153
+Decompressed SNR: 631,047,683.398
+
+216-Colors R R2 D_REL2
+Time: 942ms
+Dithered RMS: 30.686
+Dithered SNR: 928,574,673.715
+
+Time: 1172ms
+Compressed Ratio: 4.799
+
+Time: 446ms
+Decompressed RMS: 47.079
+Decompressed SNR: 605,240,487.076
+
+2-Colors F DXT DXT
+Time: 156ms
+Dithered RMS: 207.579
+Dithered SNR: 137,267,711.46
+
+Time: 1330ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 207.579
+Decompressed SNR: 137,267,711.46
+
+2-Colors O DXT DXT
+Time: 45ms
+Dithered RMS: 182.602
+Dithered SNR: 156,043,672.319
+
+Time: 915ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 182.602
+Decompressed SNR: 156,043,672.319
+
+2-Colors J DXT DXT
+Time: 218ms
+Dithered RMS: 206.719
+Dithered SNR: 137,838,982.096
+
+Time: 1313ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 206.719
+Decompressed SNR: 137,838,982.096
+
+2-Colors R DXT DXT
+Time: 162ms
+Dithered RMS: 207.659
+Dithered SNR: 137,215,064.334
+
+Time: 1267ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 207.659
+Decompressed SNR: 137,215,064.334
+
+8-Colors F DXT DXT
+Time: 178ms
+Dithered RMS: 195.999
+Dithered SNR: 145,377,586.777
+
+Time: 3712ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 195.999
+Decompressed SNR: 145,377,586.777
+
+8-Colors O DXT DXT
+Time: 68ms
+Dithered RMS: 158.707
+Dithered SNR: 179,537,513.824
+
+Time: 1966ms
+Compressed Ratio: 4.496
+
+Time: 21ms
+Decompressed RMS: 158.707
+Decompressed SNR: 179,537,513.824
+
+8-Colors J DXT DXT
+Time: 237ms
+Dithered RMS: 194.844
+Dithered SNR: 146,239,903.402
+
+Time: 3914ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 194.844
+Decompressed SNR: 146,239,903.402
+
+8-Colors R DXT DXT
+Time: 187ms
+Dithered RMS: 196.091
+Dithered SNR: 145,309,495.793
+
+Time: 4060ms
+Compressed Ratio: 4.496
+
+Time: 27ms
+Decompressed RMS: 196.091
+Decompressed SNR: 145,309,495.793
+
+16-Colors F DXT DXT
+Time: 221ms
+Dithered RMS: 67.93
+Dithered SNR: 419,461,504.667
+
+Time: 4096ms
+Compressed Ratio: 4.496
+
+Time: 24ms
+Decompressed RMS: 67.93
+Decompressed SNR: 419,461,504.667
+
+16-Colors O DXT DXT
+Time: 105ms
+Dithered RMS: 83.479
+Dithered SNR: 341,328,508.086
+
+Time: 3636ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 83.479
+Decompressed SNR: 341,328,508.086
+
+16-Colors J DXT DXT
+Time: 274ms
+Dithered RMS: 65.18
+Dithered SNR: 437,156,332.018
+
+Time: 4079ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 65.18
+Decompressed SNR: 437,156,332.018
+
+16-Colors R DXT DXT
+Time: 221ms
+Dithered RMS: 67.523
+Dithered SNR: 421,987,697.413
+
+Time: 4195ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 67.523
+Decompressed SNR: 421,987,697.413
+
+216-Colors F DXT DXT
+Time: 946ms
+Dithered RMS: 31.172
+Dithered SNR: 914,077,355.897
+
+Time: 3914ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 31.172
+Decompressed SNR: 914,077,355.897
+
+216-Colors O DXT DXT
+Time: 841ms
+Dithered RMS: 69.399
+Dithered SNR: 410,581,169.049
+
+Time: 3757ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 69.399
+Decompressed SNR: 410,581,169.049
+
+216-Colors J DXT DXT
+Time: 990ms
+Dithered RMS: 28.646
+Dithered SNR: 994,686,654.307
+
+Time: 3805ms
+Compressed Ratio: 4.496
+
+Time: 21ms
+Decompressed RMS: 28.646
+Decompressed SNR: 994,686,654.307
+
+216-Colors R DXT DXT
+Time: 945ms
+Dithered RMS: 30.686
+Dithered SNR: 928,574,673.715
+
+Time: 3878ms
+Compressed Ratio: 4.496
+
+Time: 20ms
+Decompressed RMS: 30.686
+Decompressed SNR: 928,574,673.715
+
+2-Colors F ETC ETC
+Time: 157ms
+Dithered RMS: 207.579
+Dithered SNR: 137,267,711.46
+
+Time: 675ms
+Compressed Ratio: 5.997
+
+Time: 57ms
+Decompressed RMS: 205.145
+Decompressed SNR: 138,896,482.525
+
+2-Colors O ETC ETC
+Time: 45ms
+Dithered RMS: 182.602
+Dithered SNR: 156,043,672.319
+
+Time: 611ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 181.174
+Decompressed SNR: 157,273,752.373
+
+2-Colors J ETC ETC
+Time: 219ms
+Dithered RMS: 206.719
+Dithered SNR: 137,838,982.096
+
+Time: 662ms
+Compressed Ratio: 5.997
+
+Time: 58ms
+Decompressed RMS: 204.367
+Decompressed SNR: 139,424,975.31
+
+2-Colors R ETC ETC
+Time: 163ms
+Dithered RMS: 207.659
+Dithered SNR: 137,215,064.334
+
+Time: 685ms
+Compressed Ratio: 5.997
+
+Time: 87ms
+Decompressed RMS: 205.439
+Decompressed SNR: 138,697,861.649
+
+8-Colors F ETC ETC
+Time: 179ms
+Dithered RMS: 195.999
+Dithered SNR: 145,377,586.777
+
+Time: 736ms
+Compressed Ratio: 5.997
+
+Time: 57ms
+Decompressed RMS: 132.201
+Decompressed SNR: 215,534,423.937
+
+8-Colors O ETC ETC
+Time: 69ms
+Dithered RMS: 158.707
+Dithered SNR: 179,537,513.824
+
+Time: 622ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 144.394
+Decompressed SNR: 197,334,704.827
+
+8-Colors J ETC ETC
+Time: 240ms
+Dithered RMS: 194.844
+Dithered SNR: 146,239,903.402
+
+Time: 737ms
+Compressed Ratio: 5.997
+
+Time: 58ms
+Decompressed RMS: 135.58
+Decompressed SNR: 210,163,751.634
+
+8-Colors R ETC ETC
+Time: 186ms
+Dithered RMS: 196.091
+Dithered SNR: 145,309,495.793
+
+Time: 739ms
+Compressed Ratio: 5.997
+
+Time: 64ms
+Decompressed RMS: 132.58
+Decompressed SNR: 214,918,067.368
+
+16-Colors F ETC ETC
+Time: 227ms
+Dithered RMS: 67.93
+Dithered SNR: 419,461,504.667
+
+Time: 783ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 45.743
+Decompressed SNR: 622,914,391.202
+
+16-Colors O ETC ETC
+Time: 105ms
+Dithered RMS: 83.479
+Dithered SNR: 341,328,508.086
+
+Time: 742ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 77.557
+Decompressed SNR: 367,390,965.039
+
+16-Colors J ETC ETC
+Time: 274ms
+Dithered RMS: 65.18
+Dithered SNR: 437,156,332.018
+
+Time: 749ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 43.682
+Decompressed SNR: 652,303,481.497
+
+16-Colors R ETC ETC
+Time: 220ms
+Dithered RMS: 67.523
+Dithered SNR: 421,987,697.413
+
+Time: 747ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 45.187
+Decompressed SNR: 630,581,842.647
+
+216-Colors F ETC ETC
+Time: 941ms
+Dithered RMS: 31.172
+Dithered SNR: 914,077,355.897
+
+Time: 747ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 23.24
+Decompressed SNR: 1,226,060,405.924
+
+216-Colors O ETC ETC
+Time: 867ms
+Dithered RMS: 69.399
+Dithered SNR: 410,581,169.049
+
+Time: 755ms
+Compressed Ratio: 5.997
+
+Time: 55ms
+Decompressed RMS: 68.377
+Decompressed SNR: 416,719,478.522
+
+216-Colors J ETC ETC
+Time: 1037ms
+Dithered RMS: 28.646
+Dithered SNR: 994,686,654.307
+
+Time: 743ms
+Compressed Ratio: 5.997
+
+Time: 57ms
+Decompressed RMS: 22.803
+Decompressed SNR: 1,249,559,372.889
+
+216-Colors R ETC ETC
+Time: 1028ms
+Dithered RMS: 30.686
+Dithered SNR: 928,574,673.715
+
+Time: 746ms
+Compressed Ratio: 5.997
+
+Time: 56ms
+Decompressed RMS: 23.15
+Decompressed SNR: 1,230,862,285.011
+

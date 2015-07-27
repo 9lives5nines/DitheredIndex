@@ -1,0 +1,647 @@
+2-Colors & Floyd & Relevance 1 & 390ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 390ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 405ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 422ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 405ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 421ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 453ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 452ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 437ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 436ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 858ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 952ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 858ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 842ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 406ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 405ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 406ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 455ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 452ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 437ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 437ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 858ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 951ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 858ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 842ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 686ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 702ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 687ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 640ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 671ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 702ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 687ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 655ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 702ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 765ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 717ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 686ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1326ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1529ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1295ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1310ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1170ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 951ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1201ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1170ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3822ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 2277ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3853ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3790ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 3712ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 3713ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 3760ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 3759ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 4368ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 3962ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 4227ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 4337ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 670ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 655ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 670ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 671ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 749ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 687ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 749ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 764ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 749ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 749ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 733ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 734ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 749ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 749ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 764ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 749ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Bamboo} \\ \hline
+2-Colors & Floyd & Relevance 1 & 390ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 405ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 422ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 405ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 436ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 483ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 453ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 453ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 936ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1014ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 936ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 952ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 405ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 390ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 390ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 405ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 421ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 437ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 436ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 452ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 437ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 936ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1030ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 921ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 936ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 640ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 671ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 655ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 640ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 655ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 702ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 656ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 656ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 718ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 749ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 749ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 733ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1433ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1630ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1431ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1423ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1226ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 993ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1336ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1263ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3636ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 1669ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3825ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3683ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 3923ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 3432ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 3878ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 3741ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 3934ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 4134ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 3810ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 4093ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 684ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 639ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 666ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 683ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 765ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 652ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 757ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 769ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 746ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 740ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 745ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 739ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 749ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 770ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 756ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 751ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Carpet} \\ \hline
+2-Colors & Floyd & Relevance 1 & 402ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 405ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 409ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 404ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 417ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 428ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 426ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 439ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 441ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 453ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 444ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 443ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 897ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1001ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 916ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 892ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 402ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 407ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 402ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 401ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 423ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 433ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 499ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 452ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 451ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 459ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 450ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 445ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 894ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1097ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 919ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 905ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 651ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 689ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 654ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 640ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 660ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 724ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 762ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 654ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 711ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 791ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 713ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 712ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1384ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1589ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1395ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1506ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1685ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 864ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1230ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1169ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 4492ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 2086ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 4471ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3931ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 4942ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 3341ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 4210ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 4225ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 4119ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 4081ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 4031ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 4170ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 688ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 664ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 733ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 687ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 753ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 717ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 752ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 766ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 747ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 743ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 755ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 755ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 751ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 759ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 751ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 749ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Concrete} \\ \hline
+2-Colors & Floyd & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 404ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 406ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 424ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 427ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 424ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 423ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 449ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 460ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 450ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 451ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 1049ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1151ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 1047ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 1047ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 415ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 403ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 402ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 401ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 424ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 427ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 422ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 422ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 446ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 462ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 456ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 449ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 1046ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1152ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 1047ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 1045ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 649ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 711ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 665ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 642ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 670ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 722ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 680ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 669ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 726ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 776ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 735ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 732ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1630ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1821ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1629ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1626ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 918ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 274ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 922ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 879ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3227ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 277ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3371ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3331ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 3574ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 2303ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 3677ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 3588ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 3310ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 3072ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 3238ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 3260ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 646ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 642ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 636ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 643ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 747ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 643ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 739ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 748ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 727ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 808ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 723ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 725ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 760ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 772ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 759ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 766ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Grass} \\ \hline
+2-Colors & Floyd & Relevance 1 & 402ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 404ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 403ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 400ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 415ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 425ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 414ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 415ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 432ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 448ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 430ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 436ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 807ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 921ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 816ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 815ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 402ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 406ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 400ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 402ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 414ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 424ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 414ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 414ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 431ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 446ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 432ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 434ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 810ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 918ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 817ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 811ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 645ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 688ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 650ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 647ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 654ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 715ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 671ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 649ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 696ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 767ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 711ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 710ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1268ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1469ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1277ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1292ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1207ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 1107ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1276ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1226ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3691ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 1979ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3903ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3851ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 4298ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 3790ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 4317ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 4351ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 3954ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 3683ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 3776ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 4117ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 697ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 655ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 676ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 694ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 735ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 664ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 738ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 743ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 748ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 727ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 744ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 749ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 749ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 747ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 746ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 747ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Lena} \\ \hline
+2-Colors & Floyd & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 404ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 404ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 418ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 417ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 442ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 454ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 443ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 443ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 951ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1053ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 951ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 950ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 412ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 402ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 420ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 416ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 424ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 442ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 452ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 444ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 447ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 951ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1052ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 952ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 948ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 643ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 689ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 664ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 642ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 658ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 716ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 673ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 727ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 772ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 763ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 717ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 713ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1458ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1663ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1461ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1454ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1099ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 675ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1214ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1093ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3451ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 1640ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3598ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3495ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 3034ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 2898ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 3266ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 3279ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 3822ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 3467ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 3756ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 3768ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 675ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 639ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 662ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 672ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 772ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 717ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 766ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 776ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 892ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 762ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 759ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 777ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 753ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 900ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 786ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 755ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Pattern} \\ \hline
+2-Colors & Floyd & Relevance 1 & 408ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 404ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 400ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 400ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 413ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 413ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 413ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 414ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 428ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 442ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 438ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 429ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 761ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 864ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 762ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 760ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 398ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 408ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 410ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 442ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 456ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 421ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 413ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 440ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 442ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 449ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 435ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 759ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 921ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 759ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 813ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 643ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 688ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 664ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 641ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 655ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 695ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 665ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 651ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 688ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 747ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 693ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 690ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1174ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1374ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1170ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1172ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1330ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 915ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1313ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1267ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3712ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 1966ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3914ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 4060ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 4096ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 3636ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 4079ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 4195ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 3914ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 3757ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 3805ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 3878ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 675ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 611ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 662ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 685ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 736ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 622ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 737ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 739ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 783ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 742ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 749ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 747ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 747ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 755ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 743ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 746ms & 5.997 \\ \hline
+\multicolumn{5}{ |c| }{Wood} \\ \hline
+2-Colors & Floyd & Relevance 1 & 395ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 404ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 404ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 401ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 416ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 422ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 415ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 417ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 452ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 455ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 439ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 444ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 908ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1012ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 965ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 907ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 1 & 398ms & 5.999 \\ \hline
+2-Colors & Ordered & Relevance 1 & 407ms & 5.999 \\ \hline
+2-Colors & Jarvis & Relevance 1 & 401ms & 5.999 \\ \hline
+2-Colors & Relevance & Relevance 1 & 408ms & 5.999 \\ \hline
+8-Colors & Floyd & Relevance 1 & 420ms & 5.999 \\ \hline
+8-Colors & Ordered & Relevance 1 & 507ms & 5.999 \\ \hline
+8-Colors & Jarvis & Relevance 1 & 416ms & 5.999 \\ \hline
+8-Colors & Relevance & Relevance 1 & 414ms & 5.999 \\ \hline
+16-Colors & Floyd & Relevance 1 & 441ms & 5.999 \\ \hline
+16-Colors & Ordered & Relevance 1 & 454ms & 5.999 \\ \hline
+16-Colors & Jarvis & Relevance 1 & 441ms & 5.999 \\ \hline
+16-Colors & Relevance & Relevance 1 & 443ms & 5.999 \\ \hline
+216-Colors & Floyd & Relevance 1 & 901ms & 5.999 \\ \hline
+216-Colors & Ordered & Relevance 1 & 1011ms & 5.999 \\ \hline
+216-Colors & Jarvis & Relevance 1 & 963ms & 5.999 \\ \hline
+216-Colors & Relevance & Relevance 1 & 916ms & 5.999 \\ \hline
+2-Colors & Floyd & Relevance 2 & 732ms & 4.799 \\ \hline
+2-Colors & Ordered & Relevance 2 & 691ms & 4.799 \\ \hline
+2-Colors & Jarvis & Relevance 2 & 650ms & 4.799 \\ \hline
+2-Colors & Relevance & Relevance 2 & 640ms & 4.799 \\ \hline
+8-Colors & Floyd & Relevance 2 & 663ms & 4.799 \\ \hline
+8-Colors & Ordered & Relevance 2 & 724ms & 4.799 \\ \hline
+8-Colors & Jarvis & Relevance 2 & 672ms & 4.799 \\ \hline
+8-Colors & Relevance & Relevance 2 & 662ms & 4.799 \\ \hline
+16-Colors & Floyd & Relevance 2 & 817ms & 4.799 \\ \hline
+16-Colors & Ordered & Relevance 2 & 778ms & 4.799 \\ \hline
+16-Colors & Jarvis & Relevance 2 & 720ms & 4.799 \\ \hline
+16-Colors & Relevance & Relevance 2 & 717ms & 4.799 \\ \hline
+216-Colors & Floyd & Relevance 2 & 1411ms & 4.799 \\ \hline
+216-Colors & Ordered & Relevance 2 & 1704ms & 4.799 \\ \hline
+216-Colors & Jarvis & Relevance 2 & 1426ms & 4.799 \\ \hline
+216-Colors & Relevance & Relevance 2 & 1418ms & 4.799 \\ \hline
+2-Colors & Floyd & Direct X & 1059ms & 4.496 \\ \hline
+2-Colors & Ordered & Direct X & 896ms & 4.496 \\ \hline
+2-Colors & Jarvis & Direct X & 1171ms & 4.496 \\ \hline
+2-Colors & Relevance & Direct X & 1055ms & 4.496 \\ \hline
+8-Colors & Floyd & Direct X & 3650ms & 4.496 \\ \hline
+8-Colors & Ordered & Direct X & 1654ms & 4.496 \\ \hline
+8-Colors & Jarvis & Direct X & 3803ms & 4.496 \\ \hline
+8-Colors & Relevance & Direct X & 3689ms & 4.496 \\ \hline
+16-Colors & Floyd & Direct X & 3909ms & 4.496 \\ \hline
+16-Colors & Ordered & Direct X & 2569ms & 4.496 \\ \hline
+16-Colors & Jarvis & Direct X & 3898ms & 4.496 \\ \hline
+16-Colors & Relevance & Direct X & 3984ms & 4.496 \\ \hline
+216-Colors & Floyd & Direct X & 3728ms & 4.496 \\ \hline
+216-Colors & Ordered & Direct X & 3711ms & 4.496 \\ \hline
+216-Colors & Jarvis & Direct X & 3688ms & 4.496 \\ \hline
+216-Colors & Relevance & Direct X & 3721ms & 4.496 \\ \hline
+2-Colors & Floyd & Ericsson & 727ms & 5.997 \\ \hline
+2-Colors & Ordered & Ericsson & 648ms & 5.997 \\ \hline
+2-Colors & Jarvis & Ericsson & 681ms & 5.997 \\ \hline
+2-Colors & Relevance & Ericsson & 705ms & 5.997 \\ \hline
+8-Colors & Floyd & Ericsson & 760ms & 5.997 \\ \hline
+8-Colors & Ordered & Ericsson & 669ms & 5.997 \\ \hline
+8-Colors & Jarvis & Ericsson & 757ms & 5.997 \\ \hline
+8-Colors & Relevance & Ericsson & 760ms & 5.997 \\ \hline
+16-Colors & Floyd & Ericsson & 747ms & 5.997 \\ \hline
+16-Colors & Ordered & Ericsson & 707ms & 5.997 \\ \hline
+16-Colors & Jarvis & Ericsson & 745ms & 5.997 \\ \hline
+16-Colors & Relevance & Ericsson & 748ms & 5.997 \\ \hline
+216-Colors & Floyd & Ericsson & 767ms & 5.997 \\ \hline
+216-Colors & Ordered & Ericsson & 747ms & 5.997 \\ \hline
+216-Colors & Jarvis & Ericsson & 746ms & 5.997 \\ \hline
+216-Colors & Relevance & Ericsson & 747ms & 5.997 \\ \hline
