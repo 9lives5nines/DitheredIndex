@@ -1,0 +1,712 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.1)  26 AUG 2013 23:15
+entering extended mode
+**./project.tex
+(G:\Dropbox\Public\project\project.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(G:\Dropbox\Public\project\CPP.cls
+Document Class: CPP 2006/11/03 Cal Poly Pomona Grad Study Format
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\defbaselineskip=\skip43
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip44
+\f@ncyO@elh=\skip45
+\f@ncyO@erh=\skip46
+\f@ncyO@olh=\skip47
+\f@ncyO@orh=\skip48
+\f@ncyO@elf=\skip49
+\f@ncyO@erf=\skip50
+\f@ncyO@olf=\skip51
+\f@ncyO@orf=\skip52
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip53
+\subfigcapskip=\skip54
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip55
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip56
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip57
+\subfig@bottom=\skip58
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count92
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count93
+\lst@currlwidth=\dimen107
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen108
+\lst@width=\dimen109
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen110
+
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box27
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\mh\mathtools.sty
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen111
+\calc@Bdimen=\dimen112
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count102
+\calc@Cskip=\skip61
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\mh\mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen113
+))
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip10
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks17
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks18
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks19
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count115
+\l_MT_multwidth_dim=\dimen122
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen123
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen124
+\l_MT_above_intertext_sep=\dimen125
+\l_MT_below_intertext_sep=\dimen126
+\l_MT_above_shortintertext_sep=\dimen127
+\l_MT_below_shortintertext_sep=\dimen128
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count116
+\LTcapwidth=\dimen129
+\LT@head=\box30
+\LT@firsthead=\box31
+\LT@foot=\box32
+\LT@lastfoot=\box33
+\LT@cols=\count117
+\LT@rows=\count118
+\c@LT@tables=\count119
+\c@LT@chunks=\count120
+\LT@p@ftn=\toks21
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language69
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+\c@ContinuedFloat=\count121
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: subfigure package is loaded.
+)
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip70
+\bibsep=\skip71
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count122
+)
+(G:\Dropbox\Public\project\project.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(C:\Users\Dee\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen137
+\scratchbox=\box34
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen138
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks23
+)
+\c@lstlisting=\count129
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+] [1{C:/Users/Dee/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[2] [3] [4] (G:\Dropbox\Public\project\project.toc [5] [6])
+\tf@toc=\write3
+ [7]
+(G:\Dropbox\Public\project\project.lof [8])
+\tf@lof=\write4
+ [9]
+(G:\Dropbox\Public\project\project.lot)
+\tf@lot=\write5
+ [10] [1] [2]
+<./images/diagrams/eye_structures.png, id=47, 225.9642pt x 231.264pt>
+File: ./images/diagrams/eye_structures.png Graphic file (type png)
+
+<use ./images/diagrams/eye_structures.png>
+Package pdftex.def Info: ./images/diagrams/eye_structures.png used on input lin
+e 78.
+(pdftex.def)             Requested size: 225.96364pt x 231.26343pt.
+
+<./images/diagrams/rods_cones.png, id=49, 501.875pt x 288.07625pt>
+File: ./images/diagrams/rods_cones.png Graphic file (type png)
+
+<use ./images/diagrams/rods_cones.png>
+Package pdftex.def Info: ./images/diagrams/rods_cones.png used on input line 87
+.
+(pdftex.def)             Requested size: 376.40532pt x 216.05664pt.
+ [3] [4 <G:/Dropbox/Public/project/images/diagrams/eye_structures.png> <G:/Drop
+box/Public/project/images/diagrams/rods_cones.png (PNG copy)>]
+<./images/diagrams/macadam.png, id=57, 545.03625pt x 602.25pt>
+File: ./images/diagrams/macadam.png Graphic file (type png)
+
+<use ./images/diagrams/macadam.png>
+Package pdftex.def Info: ./images/diagrams/macadam.png used on input line 99.
+(pdftex.def)             Requested size: 190.76555pt x 210.79065pt.
+ [5 <G:/Dropbox/Public/project/images/diagrams/macadam.png>]
+<./images/compress/banding_gradient.png, id=62, 419.5675pt x 304.13625pt>
+File: ./images/compress/banding_gradient.png Graphic file (type png)
+
+<use ./images/compress/banding_gradient.png>
+Package pdftex.def Info: ./images/compress/banding_gradient.png used on input l
+ine 109.
+(pdftex.def)             Requested size: 251.74243pt x 182.48315pt.
+
+<./images/compress/dithering.png, id=63, 132.495pt x 200.75pt>
+File: ./images/compress/dithering.png Graphic file (type png)
+
+<use ./images/compress/dithering.png>
+Package pdftex.def Info: ./images/compress/dithering.png used on input line 116
+.
+(pdftex.def)             Requested size: 132.49466pt x 200.7495pt.
+
+<./images/compress/rainbow_dithering.png, id=64, 256.96pt x 529.98pt>
+File: ./images/compress/rainbow_dithering.png Graphic file (type png)
+
+<use ./images/compress/rainbow_dithering.png>
+Package pdftex.def Info: ./images/compress/rainbow_dithering.png used on input 
+line 117.
+(pdftex.def)             Requested size: 97.64581pt x 201.39449pt.
+ [6 <G:/Dropbox/Public/project/images/compress/banding_gradient.png (PNG copy)>
+ <G:/Dropbox/Public/project/images/compress/dithering.png> <G:/Dropbox/Public/p
+roject/images/compress/rainbow_dithering.png>] [7]
+Overfull \hbox (8.72787pt too wide) in paragraph at lines 148--159
+[][] 
+ []
+
+[8] <./images/diagrams/Morse.png, id=81, 298.716pt x 79.0152pt>
+File: ./images/diagrams/Morse.png Graphic file (type png)
+
+<use ./images/diagrams/Morse.png>
+Package pdftex.def Info: ./images/diagrams/Morse.png used on input line 165.
+(pdftex.def)             Requested size: 418.19952pt x 110.62051pt.
+ [9 <G:/Dropbox/Public/project/images/diagrams/Morse.png>] [10] <./images/compr
+ess/wavelet.png, id=90, 513.92pt x 513.92pt>
+File: ./images/compress/wavelet.png Graphic file (type png)
+
+<use ./images/compress/wavelet.png>
+Package pdftex.def Info: ./images/compress/wavelet.png used on input line 226.
+(pdftex.def)             Requested size: 205.56435pt x 205.56435pt.
+
+<./images/compress/dia_wavelet.png, id=91, 258.9675pt x 258.9675pt>
+File: ./images/compress/dia_wavelet.png Graphic file (type png)
+
+<use ./images/compress/dia_wavelet.png>
+Package pdftex.def Info: ./images/compress/dia_wavelet.png used on input line 2
+27.
+(pdftex.def)             Requested size: 207.17426pt x 207.17426pt.
+ [11]
+<./images/compress/original.jpg, id=95, 803.0pt x 451.6875pt>
+File: ./images/compress/original.jpg Graphic file (type jpg)
+
+<use ./images/compress/original.jpg>
+Package pdftex.def Info: ./images/compress/original.jpg used on input line 237.
+
+(pdftex.def)             Requested size: 200.74951pt x 112.92159pt.
+
+<./images/compress/difference.jpg, id=96, 803.0pt x 451.6875pt>
+File: ./images/compress/difference.jpg Graphic file (type jpg)
+
+<use ./images/compress/difference.jpg>
+Package pdftex.def Info: ./images/compress/difference.jpg used on input line 23
+8.
+(pdftex.def)             Requested size: 200.74951pt x 112.92159pt.
+
+<./images/compress/motion.jpg, id=97, 803.0pt x 451.6875pt>
+File: ./images/compress/motion.jpg Graphic file (type jpg)
+
+<use ./images/compress/motion.jpg>
+Package pdftex.def Info: ./images/compress/motion.jpg used on input line 239.
+(pdftex.def)             Requested size: 200.74951pt x 112.92159pt.
+ [12 <G:/Dropbox/Public/project/images/compress/wavelet.png (PNG copy)> <G:/Dro
+pbox/Public/project/images/compress/dia_wavelet.png>] [13 <G:/Dropbox/Public/pr
+oject/images/compress/original.jpg> <G:/Dropbox/Public/project/images/compress/
+difference.jpg> <G:/Dropbox/Public/project/images/compress/motion.jpg>] [14]
+<./images/textures/texture_atlas.png, id=109, 299.61937pt x 297.36093pt>
+File: ./images/textures/texture_atlas.png Graphic file (type png)
+
+<use ./images/textures/texture_atlas.png>
+Package pdftex.def Info: ./images/textures/texture_atlas.png used on input line
+ 257.
+(pdftex.def)             Requested size: 179.77301pt x 178.41792pt.
+
+<./images/textures/basket.jpg, id=110, 192.72pt x 192.72pt>
+File: ./images/textures/basket.jpg Graphic file (type jpg)
+
+<use ./images/textures/basket.jpg>
+Package pdftex.def Info: ./images/textures/basket.jpg used on input line 266.
+(pdftex.def)             Requested size: 115.63287pt x 115.63287pt.
+
+<./images/textures/basket_syn.jpg, id=111, 602.25pt x 406.51875pt>
+File: ./images/textures/basket_syn.jpg Graphic file (type jpg)
+
+<use ./images/textures/basket_syn.jpg>
+Package pdftex.def Info: ./images/textures/basket_syn.jpg used on input line 26
+7.
+(pdftex.def)             Requested size: 170.4392pt x 115.04645pt.
+ [15 <G:/Dropbox/Public/project/images/textures/texture_atlas.png>]
+<./images/textures/water.jpg, id=116, 128.48pt x 128.48pt>
+File: ./images/textures/water.jpg Graphic file (type jpg)
+
+<use ./images/textures/water.jpg>
+Package pdftex.def Info: ./images/textures/water.jpg used on input line 274.
+(pdftex.def)             Requested size: 115.63092pt x 115.63092pt.
+
+<./images/textures/water_syn.jpg, id=117, 501.875pt x 501.875pt>
+File: ./images/textures/water_syn.jpg Graphic file (type jpg)
+
+<use ./images/textures/water_syn.jpg>
+Package pdftex.def Info: ./images/textures/water_syn.jpg used on input line 275
+.
+(pdftex.def)             Requested size: 115.42882pt x 115.42882pt.
+ [16 <G:/Dropbox/Public/project/images/textures/basket.jpg> <G:/Dropbox/Public/
+project/images/textures/basket_syn.jpg> <G:/Dropbox/Public/project/images/textu
+res/water.jpg> <G:/Dropbox/Public/project/images/textures/water_syn.jpg>]
+<./images/textures/ipackman.png, id=121, 923.70094pt x 369.63094pt>
+File: ./images/textures/ipackman.png Graphic file (type png)
+
+<use ./images/textures/ipackman.png>
+Package pdftex.def Info: ./images/textures/ipackman.png used on input line 288.
+
+(pdftex.def)             Requested size: 323.30017pt x 129.37276pt.
+ [17 <G:/Dropbox/Public/project/images/textures/ipackman.png>]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 302.
+
+<./images/textures/Shades_red.jpg, id=126, 289.08pt x 128.48pt>
+File: ./images/textures/Shades_red.jpg Graphic file (type jpg)
+
+<use ./images/textures/Shades_red.jpg>
+Package pdftex.def Info: ./images/textures/Shades_red.jpg used on input line 31
+2.
+(pdftex.def)             Requested size: 202.35461pt x 89.93538pt.
+
+<./images/textures/Shades_colour.jpg, id=127, 293.15155pt x 130.28958pt>
+File: ./images/textures/Shades_colour.jpg Graphic file (type jpg)
+
+<use ./images/textures/Shades_colour.jpg>
+Package pdftex.def Info: ./images/textures/Shades_colour.jpg used on input line
+ 313.
+(pdftex.def)             Requested size: 205.20467pt x 91.20207pt.
+ [18] [19 <G:/Dropbox/Public/project/images/textures/Shades_red.jpg> <G:/Dropbo
+x/Public/project/images/textures/Shades_colour.jpg>] <./images/test_images/lena
+.png, id=134, 513.92pt x 513.92pt>
+File: ./images/test_images/lena.png Graphic file (type png)
+
+<use ./images/test_images/lena.png>
+Package pdftex.def Info: ./images/test_images/lena.png used on input line 341.
+(pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
+
+<./images/test_images/peppers.png, id=135, 513.92pt x 513.92pt>
+File: ./images/test_images/peppers.png Graphic file (type png)
+
+<use ./images/test_images/peppers.png>
+Package pdftex.def Info: ./images/test_images/peppers.png used on input line 34
+2.
+(pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
+ [20
+
+] [21 <G:/Dropbox/Public/project/images/test_images/lena.png> <G:/Dropbox/Publi
+c/project/images/test_images/peppers.png>] [22] [23] [24]
+<./images/output_images/lena.png, id=152, 513.92pt x 513.92pt>
+File: ./images/output_images/lena.png Graphic file (type png)
+
+<use ./images/output_images/lena.png>
+Package pdftex.def Info: ./images/output_images/lena.png used on input line 438
+.
+(pdftex.def)             Requested size: 205.56435pt x 205.56435pt.
+
+<./images/output_images/dith_lena.png, id=153, 513.92pt x 513.92pt>
+File: ./images/output_images/dith_lena.png Graphic file (type png)
+
+<use ./images/output_images/dith_lena.png>
+Package pdftex.def Info: ./images/output_images/dith_lena.png used on input lin
+e 439.
+(pdftex.def)             Requested size: 205.56435pt x 205.56435pt.
+
+<./images/output_images/temp.png, id=154, 513.92pt x 513.92pt>
+File: ./images/output_images/temp.png Graphic file (type png)
+
+<use ./images/output_images/temp.png>
+Package pdftex.def Info: ./images/output_images/temp.png used on input line 447
+.
+(pdftex.def)             Requested size: 205.56435pt x 205.56435pt.
+ [25 <G:/Dropbox/Public/project/images/output_images/lena.png> <G:/Dropbox/Publ
+ic/project/images/output_images/dith_lena.png (PNG copy)>] [26 <G:/Dropbox/Publ
+ic/project/images/output_images/temp.png (PNG copy)>] <./images/misc/banding.pn
+g, id=162, 513.92pt x 513.92pt>
+File: ./images/misc/banding.png Graphic file (type png)
+
+<use ./images/misc/banding.png>
+Package pdftex.def Info: ./images/misc/banding.png used on input line 473.
+(pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
+
+<./images/misc/artifacts.png, id=163, 513.92pt x 513.92pt>
+File: ./images/misc/artifacts.png Graphic file (type png)
+
+<use ./images/misc/artifacts.png>
+Package pdftex.def Info: ./images/misc/artifacts.png used on input line 474.
+(pdftex.def)             Requested size: 154.17719pt x 154.17719pt.
+ [27 <G:/Dropbox/Public/project/images/misc/banding.png (PNG copy)> <G:/Dropbox
+/Public/project/images/misc/artifacts.png (PNG copy)>] [28] <./images/test_imag
+es/baboon.png, id=171, 513.92pt x 513.92pt>
+File: ./images/test_images/baboon.png Graphic file (type png)
+
+<use ./images/test_images/baboon.png>
+Package pdftex.def Info: ./images/test_images/baboon.png used on input line 498
+.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+
+<./images/test_images/bamboo.png, id=172, 513.92pt x 513.92pt>
+File: ./images/test_images/bamboo.png Graphic file (type png)
+
+<use ./images/test_images/bamboo.png>
+Package pdftex.def Info: ./images/test_images/bamboo.png used on input line 499
+.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+
+<./images/test_images/carpet.png, id=173, 513.92pt x 513.92pt>
+File: ./images/test_images/carpet.png Graphic file (type png)
+
+<use ./images/test_images/carpet.png>
+Package pdftex.def Info: ./images/test_images/carpet.png used on input line 500
+.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+
+<./images/test_images/concrete.png, id=174, 513.92pt x 513.92pt>
+File: ./images/test_images/concrete.png Graphic file (type png)
+
+<use ./images/test_images/concrete.png>
+Package pdftex.def Info: ./images/test_images/concrete.png used on input line 5
+01.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+
+<./images/test_images/grass.png, id=175, 513.92pt x 513.92pt>
+File: ./images/test_images/grass.png Graphic file (type png)
+
+<use ./images/test_images/grass.png>
+Package pdftex.def Info: ./images/test_images/grass.png used on input line 502.
+
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+File: ./images/test_images/lena.png Graphic file (type png)
+ <use ./images/test_images/lena.png>
+Package pdftex.def Info: ./images/test_images/lena.png used on input line 503.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+
+<./images/test_images/pattern.png, id=176, 513.92pt x 513.92pt>
+File: ./images/test_images/pattern.png Graphic file (type png)
+
+<use ./images/test_images/pattern.png>
+Package pdftex.def Info: ./images/test_images/pattern.png used on input line 50
+4.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+
+<./images/test_images/wood.png, id=177, 513.92pt x 513.92pt>
+File: ./images/test_images/wood.png Graphic file (type png)
+
+<use ./images/test_images/wood.png>
+Package pdftex.def Info: ./images/test_images/wood.png used on input line 505.
+(pdftex.def)             Requested size: 128.47968pt x 128.47968pt.
+ [29 <G:/Dropbox/Public/project/images/test_images/baboon.png> <G:/Dropbox/Publ
+ic/project/images/test_images/bamboo.png (PNG copy)> <G:/Dropbox/Public/project
+/images/test_images/carpet.png (PNG copy)> <G:/Dropbox/Public/project/images/te
+st_images/concrete.png (PNG copy)> <G:/Dropbox/Public/project/images/test_image
+s/grass.png (PNG copy)> <G:/Dropbox/Public/project/images/test_images/pattern.p
+ng (PNG copy)> <G:/Dropbox/Public/project/images/test_images/wood.png (PNG copy
+)>]
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 520--520
+[] [] 
+ []
+
+
+Overfull \hbox (1.31358pt too wide) in alignment at lines 518--524
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 525--525
+[] [] 
+ []
+
+
+Overfull \hbox (1.31358pt too wide) in alignment at lines 524--529
+ [] [] [] [] [] [] [] 
+ []
+
+(G:\Dropbox\Public\project\undithered.out
+Overfull \hbox (1.31358pt too wide) in alignment at lines 529--19
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.31358pt too wide) in alignment at lines 19--39
+ [] [] [] [] [] [] [] 
+ []
+
+)
+Overfull \hbox (1.31358pt too wide) in alignment at lines 39--533
+ [] [] [] [] [] [] [] 
+ []
+
+[30] [31]
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 541--541
+[] [] 
+ []
+
+
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 546--546
+[] [] 
+ []
+
+(G:\Dropbox\Public\project\dither.out [32] [33] [34] [35]) [36] [37]
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 562--562
+[] [] 
+ []
+
+
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 567--567
+[] [] 
+ []
+
+(G:\Dropbox\Public\project\compress.out [38] [39] [40] [41] [42] [43] [44]
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54]) [55] [56]
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 583--583
+[] [] 
+ []
+
+
+Overfull \hbox (41.55504pt too wide) in paragraph at lines 588--588
+[] [] 
+ []
+
+(G:\Dropbox\Public\project\decompress.out [57] [58] [59] [60] [61] [62]
+[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
+[78]) [79] [80] (G:\Dropbox\Public\project\project.bbl
+Underfull \hbox (badness 4132) in paragraph at lines 31--34
+\OT1/cmr/m/it/12 Jour-nal of the Op-ti-cal So-ci-ety of Amer-ica \OT1/cmr/m/n/1
+2 32(5)(1942):247--273, doi:
+ []
+
+[81
+
+]) [82] (G:\Dropbox\Public\project\project.aux) ) 
+Here is how much of TeX's memory you used:
+ 5543 strings out of 493921
+ 84343 string characters out of 3144883
+ 185878 words of memory out of 3000000
+ 8738 multiletter control sequences out of 15000+200000
+ 9692 words of font info for 35 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,9n,44p,1360b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmtt12.pfb>
+Output written on project.pdf (93 pages, 7958595 bytes).
+PDF statistics:
+ 391 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+

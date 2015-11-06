@@ -1,0 +1,57 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Texture Compression}{1}
+\contentsline {subsection}{\numberline {1.2}Motivation}{1}
+\contentsline {subsection}{\numberline {1.3}Applications}{2}
+\contentsline {section}{\numberline {2}Literature Review}{3}
+\contentsline {subsection}{\numberline {2.1}Human Vision}{3}
+\contentsline {subsubsection}{\numberline {2.1.1}The Human Eye}{3}
+\contentsline {subsubsection}{\numberline {2.1.2}Tolerance and MacAdam Ellipses}{3}
+\contentsline {subsubsection}{\numberline {2.1.3}Dithering}{5}
+\contentsline {subsection}{\numberline {2.2}Compression}{7}
+\contentsline {subsubsection}{\numberline {2.2.1}Defining Compression}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Entropy}{7}
+\contentsline {subsection}{\numberline {2.3}Lossless Compression}{8}
+\contentsline {subsubsection}{\numberline {2.3.1}Huffman Coding}{8}
+\contentsline {subsubsection}{\numberline {2.3.2}Lempel-Ziv-Welch}{9}
+\contentsline {subsection}{\numberline {2.4}Lossy Compression}{9}
+\contentsline {subsubsection}{\numberline {2.4.1}Wavelet Transform}{11}
+\contentsline {subsubsection}{\numberline {2.4.2}Motion Compensation (MPEG-2)}{11}
+\contentsline {subsection}{\numberline {2.5}Textures}{12}
+\contentsline {subsubsection}{\numberline {2.5.1}Texture Storage Methods}{14}
+\contentsline {subsubsection}{\numberline {2.5.2}Atlas}{14}
+\contentsline {subsubsection}{\numberline {2.5.3}Synthesis}{15}
+\contentsline {subsection}{\numberline {2.6}Texture Compression Methods}{16}
+\contentsline {subsubsection}{\numberline {2.6.1}Ericsson Texture Compression}{16}
+\contentsline {subsubsection}{\numberline {2.6.2}S3TC (DXT1-DXT5)}{17}
+\contentsline {section}{\numberline {3}Research Goals}{20}
+\contentsline {subsection}{\numberline {3.1}Convert Images to PPM}{20}
+\contentsline {subsection}{\numberline {3.2}Perform Dithering on Image Data}{21}
+\contentsline {subsection}{\numberline {3.3}Perform Compression on Undithered Images}{21}
+\contentsline {subsection}{\numberline {3.4}Perform Compression on Dithered Images}{21}
+\contentsline {subsection}{\numberline {3.5}Analyze and Compare Results}{22}
+\contentsline {subsection}{\numberline {3.6}Graphical User Interface}{22}
+\contentsline {section}{\numberline {4}Methodology}{23}
+\contentsline {subsection}{\numberline {4.1}Representing an Image}{23}
+\contentsline {subsection}{\numberline {4.2}Applying Dithering to an Image}{23}
+\contentsline {subsubsection}{\numberline {4.2.1}Ordered Dithering}{23}
+\contentsline {subsubsection}{\numberline {4.2.2}Error Diffusion Dithering}{23}
+\contentsline {subsection}{\numberline {4.3}Converting PPM to TGA}{23}
+\contentsline {subsection}{\numberline {4.4}Applying Compression to An Image}{24}
+\contentsline {subsubsection}{\numberline {4.4.1}Using DXT}{24}
+\contentsline {subsubsection}{\numberline {4.4.2}Using ETC}{24}
+\contentsline {subsubsection}{\numberline {4.4.3}Using the Proposed Method}{25}
+\contentsline {subsection}{\numberline {4.5}Tools}{26}
+\contentsline {subsection}{\numberline {4.6}Evaluation}{26}
+\contentsline {subsubsection}{\numberline {4.6.1}Comparing Quantitative Results}{26}
+\contentsline {subsubsection}{\numberline {4.6.2}Comparing Qualitative Results}{27}
+\contentsline {section}{\numberline {5}Results}{28}
+\contentsline {subsection}{\numberline {5.1}Observations}{28}
+\contentsline {subsubsection}{\numberline {5.1.1}Dithering}{28}
+\contentsline {subsubsection}{\numberline {5.1.2}Compression}{28}
+\contentsline {subsubsection}{\numberline {5.1.3}Suggestions for Improvement}{28}
+\contentsline {subsection}{\numberline {5.2}Statistics}{29}
+\contentsline {subsubsection}{\numberline {5.2.1}Test Images}{29}
+\contentsline {subsubsection}{\numberline {5.2.2}Control Methods}{30}
+\contentsline {subsubsection}{\numberline {5.2.3}Dither Methods}{32}
+\contentsline {subsubsection}{\numberline {5.2.4}Compression Methods}{38}
+\contentsline {subsubsection}{\numberline {5.2.5}Decompression Methods}{57}

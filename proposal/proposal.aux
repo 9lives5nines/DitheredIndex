@@ -1,0 +1,92 @@
+\relax 
+\bibstyle{turabian}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Texture Compression}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Motivation}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Applications}{5}}
+\citation{Rafael}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Literature Review}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Human Vision}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.1}The Human Eye}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Diagram of structures within the human eye.}}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The distribution of rods and cones along the retina. Note the gap which is where the optic nerve would emerge.}}{7}}
+\citation{MacAdam}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.2}Tolerance and MacAdam Ellipses}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces MacAdam ellipses shown ten times their actual size on the CIE 1931 XYZ color space. Colors inside an ellipse visually match the color in the center.}}{8}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.3}Dithering}{8}}
+\citation{Knuth}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Banding in a gradient. Banding is reduced when dithering is applied.}}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Compression}{9}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1}Defining Compression}{9}}
+\citation{Shannon}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Using dithering, more colors can be represented using a reduced color palette.}}{10}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2}Entropy}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Lossless Compression}{11}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.1}Huffman Coding}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Frequency for common letters in the English language.}}{11}}
+\citation{Ziv}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces A Huffman binary tree. This is the tree also used for Morse code.}}{12}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.2}Lempel-Ziv-Welch}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Lossy Compression}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Pseudocode for LZW (compression).}}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Pseudocode for LZW (decompression).}}{13}}
+\citation{Chui}
+\citation{Tudor}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.1}Wavelet Transform}{14}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.2}Motion Compensation (MPEG-2)}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Image processed with a wavelet transform. Each block contains coefficients to reconstruct the original image.}}{15}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}Textures}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces The original frame, the difference frame, and the motion compensated frame.}}{16}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.5.1}Texture Storage Methods}{16}}
+\citation{Sherrod2008}
+\citation{Efros}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.5.2}Atlas}{17}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.5.3}Synthesis}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces An atlas containing various textures for wooden objects such as doors, crates, flooring and walls.}}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces A regular texture which has been synthesized with minimal effort.}}{18}}
+\citation{Strom2005}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces An irregular texture which has synthesized to a larger texture using various image processing techniques.}}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Texture Compression Methods}{19}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.6.1}Ericsson Texture Compression}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces The base colors are shown for each block on the left image, while luminance modulation is shown in the middle. The final image is the decompressed image.}}{20}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.6.2}S3TC (DXT1-DXT5)}{20}}
+\citation{Iourcha1999}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces The errors for gradient textures is shown in the top set of images. The right shows the result of a reduced color palette, which cannot interpolate the original colors at all.}}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Research Goals}{21}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Convert Images to PPM}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Examples of regular images from the USC-SIPI Database.}}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Perform Dithering on Image Data}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Perform Compression on Undithered Images}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Perform Compression on Dithered Images}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Analyze and Compare Results}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Graphical User Interface}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Methodology}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Representing an Image}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Applying Dithering to an Image}{25}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.1}Ordered Dithering}{25}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.2}Error Diffusion Dithering}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Converting PPM to TGA}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces The command to convert a ppm formatted image to tga, and vice versa.}}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Applying Compression to An Image}{26}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.1}Using DXT}{26}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.2}Using ETC}{26}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.3}Using the Proposed Method}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Left: Original image. Right: Dithered Image.}}{27}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Tools}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces The final decompressed image.}}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Evaluation}{28}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.6.1}Comparing Quantitative Results}{28}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.6.2}Comparing Qualitative Results}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Left: Image banding. Right: Artifacts in the form of blocking.}}{29}}
+\bibdata{bibfile}
+\bibcite{Chui}{{1}{1992}{{Chui}}{{}}}
+\bibcite{Efros}{{2}{2001}{{Efros and Freeman}}{{}}}
+\bibcite{Rafael}{{3}{2006}{{Gonzalez and Woods}}{{}}}
+\bibcite{Iourcha1999}{{4}{1999}{{Iourcha et~al.}}{{Iourcha, Nayak, and Hong}}}
+\bibcite{Knuth}{{5}{1987}{{Knuth}}{{}}}
+\bibcite{MacAdam}{{6}{1942}{{MacAdam}}{{}}}
+\bibcite{Shannon}{{7}{2001}{{Shannon}}{{}}}
+\bibcite{Sherrod2008}{{8}{2008}{{Sherrod}}{{}}}
+\bibcite{Strom2005}{{9}{2005}{{Str\"{o}m and Akenine-M\"{o}ller}}{{}}}
+\bibcite{Tudor}{{10}{1995}{{Tudor}}{{}}}
+\bibcite{Ziv}{{11}{1978}{{Ziv and Lempel}}{{}}}

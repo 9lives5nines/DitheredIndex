@@ -1,0 +1,22 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Diagram of structures within the human eye.\relax }}{4}
+\contentsline {figure}{\numberline {2}{\ignorespaces The distribution of rods and cones along the retina. Note the gap which is where the optic nerve would emerge.\relax }}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces MacAdam ellipses shown ten times their actual size on the CIE 1931 XYZ color space. Colors inside an ellipse visually match the color in the center.\relax }}{5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Banding in a gradient. Banding is reduced when dithering is applied.\relax }}{6}
+\contentsline {figure}{\numberline {5}{\ignorespaces Using dithering, more colors can be represented using a reduced color palette.\relax }}{6}
+\contentsline {figure}{\numberline {6}{\ignorespaces Frequency for common letters in the English language.\relax }}{8}
+\contentsline {figure}{\numberline {7}{\ignorespaces A Huffman binary tree. This is the tree also used for Morse code.\relax }}{9}
+\contentsline {figure}{\numberline {8}{\ignorespaces Pseudo-code for LZW (compression).\relax }}{10}
+\contentsline {figure}{\numberline {9}{\ignorespaces Pseudo-code for LZW (decompression).\relax }}{10}
+\contentsline {figure}{\numberline {10}{\ignorespaces Image processed with a wavelet transform. Each block contains coefficients to reconstruct the original image.\relax }}{12}
+\contentsline {figure}{\numberline {11}{\ignorespaces The original frame, the difference frame, and the motion compensated frame.\relax }}{13}
+\contentsline {figure}{\numberline {12}{\ignorespaces An atlas containing various textures for wooden objects such as doors, crates, flooring and walls.\relax }}{15}
+\contentsline {figure}{\numberline {13}{\ignorespaces A regular texture which has been synthesized with minimal effort.\relax }}{16}
+\contentsline {figure}{\numberline {14}{\ignorespaces An irregular texture which has synthesized to a larger texture using various image processing techniques.\relax }}{16}
+\contentsline {figure}{\numberline {15}{\ignorespaces The base colors are shown for each block on the left image, while luminance modulation is shown in the middle. The final image is the decompressed image.\relax }}{17}
+\contentsline {figure}{\numberline {16}{\ignorespaces The errors for gradient textures is shown in the top set of images. The right shows the result of a reduced color palette, which cannot interpolate the original colors at all.\relax }}{19}
+\contentsline {figure}{\numberline {17}{\ignorespaces Examples of regular images from the USC-SIPI Database.\relax }}{21}
+\contentsline {figure}{\numberline {18}{\ignorespaces The command to convert a ppm formatted image to tga, and vice versa.\relax }}{24}
+\contentsline {figure}{\numberline {19}{\ignorespaces Left: Original image. Right: Dithered Image.\relax }}{25}
+\contentsline {figure}{\numberline {20}{\ignorespaces The final decompressed image.\relax }}{26}
+\contentsline {figure}{\numberline {21}{\ignorespaces Left: Image banding. Right: Artifacts in the form of blocking.\relax }}{27}
+\contentsline {figure}{\numberline {22}{\ignorespaces The set of test images used. In order: Baboon, Bamboo, Carpet, Concrete, Grass, Lena, Pattern, Wood.\relax }}{29}

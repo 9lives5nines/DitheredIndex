@@ -1,0 +1,57 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Chui(1992)}]{Chui}
+Chui, C.~K. 1992. \emph{An introduction to wavelets}. Academic Press
+  Professional, Inc., San Diego, CA, USA, ISBN 0-12-174584-8.
+
+\bibitem[{Efros and Freeman(2001)}]{Efros}
+Efros, A.~A. and Freeman, W.~T. 2001. Image quilting for texture synthesis and
+  transfer. In \emph{Proceedings of the 28th annual conference on Computer
+  graphics and interactive techniques}, pages 341--346, ACM.
+
+\bibitem[{Gonzalez and Woods(2006)}]{Rafael}
+Gonzalez, R.~C. and Woods, R.~E. 2006. \emph{Digital Image Processing (3rd
+  Edition)}. Prentice-Hall, Inc., Upper Saddle River, NJ, USA, ISBN 013168728X.
+
+\bibitem[{Iourcha et~al.(1999)Iourcha, Nayak, and Hong}]{Iourcha1999}
+Iourcha, K.~I., Nayak, K.~S., and Hong, Z. 1999. {System and method for
+  fixed-rate block-based image compression with inferred pixel values}.
+  \emph{US Patent 5,956,431}.
+
+\bibitem[{Knuth(1987)}]{Knuth}
+Knuth, D.~E. 1987. Digital halftones by dot diffusion. \emph{ACM Transactions
+  on Graphics (TOG)}, 6(4):245--273.
+
+\bibitem[{MacAdam(1942)}]{MacAdam}
+MacAdam, D.~L. 1942. {Visual Sensitivities to Color Differences in Daylight}.
+  \emph{J. Opt. Soc. Am.}, 32(5):247--273, \doi{10.1364/JOSA.32.000247}.
+
+\bibitem[{Shannon(2001)}]{Shannon}
+Shannon, C.~E. 2001. A mathematical theory of communication. \emph{ACM
+  SIGMOBILE Mobile Computing and Communications Review}, 5(1):3--55.
+
+\bibitem[{Sherrod(2008)}]{Sherrod2008}
+Sherrod, A. 2008. \emph{Game Graphics Programming}. Course Technology PTR game
+  development series, Course Technology/Charles River Media/Cengage Learning,
+  ISBN 9781584505167.
+
+\bibitem[{Str\"{o}m and Akenine-M\"{o}ller(2005)}]{Strom2005}
+Str\"{o}m, J. and Akenine-M\"{o}ller, T. 2005. {iPACKMAN : High-Quality,
+  Low-Complexity Texture Compression for Mobile Phones}. \emph{Proceedings of
+  the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware}.
+
+\bibitem[{Tudor(1995)}]{Tudor}
+Tudor, P. 1995. Mpeg-2 video compression. \emph{Electronics \& communication
+  engineering journal}, 7(6):257--264.
+
+\bibitem[{Ziv and Lempel(1978)}]{Ziv}
+Ziv, J. and Lempel, A. 1978. Compression of individual sequences via
+  variable-rate coding. \emph{Information Theory, IEEE Transactions on},
+  24(5):530--536.
+
+\end{thebibliography}

@@ -1,0 +1,47 @@
+Relevance 1 & 1919ms & 5.999 & Relevance 1 v1 & 421ms & 39.69 & 1,060,630,235.584 \\ \hline
+Relevance 1 & 1841ms & 5.999 & Relevance 1 v2 & 421ms & 35.629 & 1,181,519,065.976 \\ \hline
+Relevance 2 & 3198ms & 4.799 & Relevance 2 & 483ms & 57.355 & 733,962,767.895 \\ \hline
+Direct X & 5070ms & 4.496 & Direct X & 15ms & 0 & ? \\ \hline
+Ericsson & 749ms & 5.997 & Ericsson & 47ms & 18.702 & 2,250,964,814.121 \\ \hline
+\multicolumn{7}{ |c| }{Bamboo} \\ \hline
+Relevance 1 & 1919ms & 5.999 & Relevance 1 v1 & 405ms & 26.872 & 1,260,041,291.982 \\ \hline
+Relevance 1 & 1919ms & 5.999 & Relevance 1 v2 & 421ms & 24.502 & 1,381,881,620.961 \\ \hline
+Relevance 2 & 3214ms & 4.799 & Relevance 2 & 514ms & 37.155 & 911,296,486.788 \\ \hline
+Direct X & 3962ms & 4.496 & Direct X & 15ms & 0 & ? \\ \hline
+Ericsson & 764ms & 5.997 & Ericsson & 63ms & 6.35 & 5,332,446,915.053 \\ \hline
+\multicolumn{7}{ |c| }{Carpet} \\ \hline
+Relevance 1 & 1872ms & 5.999 & Relevance 1 v1 & 422ms & 28.407 & 1,369,358,170.759 \\ \hline
+Relevance 1 & 1856ms & 5.999 & Relevance 1 v2 & 421ms & 24.762 & 1,570,924,134.917 \\ \hline
+Relevance 2 & 3229ms & 4.799 & Relevance 2 & 530ms & 26.665 & 1,458,822,488.542 \\ \hline
+Direct X & 4337ms & 4.496 & Direct X & 15ms & 0 & ? \\ \hline
+Ericsson & 749ms & 5.997 & Ericsson & 62ms & 6.741 & 5,770,837,730.067 \\ \hline
+\multicolumn{7}{ |c| }{Concrete} \\ \hline
+Relevance 1 & 1981ms & 5.999 & Relevance 1 v1 & 421ms & 20.779 & 3,440,733,980.568 \\ \hline
+Relevance 1 & 1950ms & 5.999 & Relevance 1 v2 & 422ms & 20.209 & 3,537,894,097.693 \\ \hline
+Relevance 2 & 3541ms & 4.799 & Relevance 2 & 546ms & 20.666 & 3,459,555,345.508 \\ \hline
+Direct X & 3042ms & 4.496 & Direct X & 31ms & 0 & ? \\ \hline
+Ericsson & 733ms & 5.997 & Ericsson & 46ms & 3.712 & 19,260,230,840.896 \\ \hline
+\multicolumn{7}{ |c| }{Grass} \\ \hline
+Relevance 1 & 2137ms & 5.999 & Relevance 1 v1 & 422ms & 29.245 & 916,449,743.625 \\ \hline
+Relevance 1 & 1872ms & 5.999 & Relevance 1 v2 & 421ms & 25.179 & 1,064,423,354.96 \\ \hline
+Relevance 2 & 3120ms & 4.799 & Relevance 2 & 546ms & 26.069 & 1,028,097,913.725 \\ \hline
+Direct X & 4525ms & 4.496 & Direct X & 16ms & 0 & ? \\ \hline
+Ericsson & 765ms & 5.997 & Ericsson & 47ms & 6.183 & 4,334,989,886.56 \\ \hline
+\multicolumn{7}{ |c| }{Lena} \\ \hline
+Relevance 1 & 1934ms & 5.999 & Relevance 1 v1 & 406ms & 30.299 & 1,422,742,047.458 \\ \hline
+Relevance 1 & 1888ms & 5.999 & Relevance 1 v2 & 421ms & 26.4 & 1,632,850,120.153 \\ \hline
+Relevance 2 & 3260ms & 4.799 & Relevance 2 & 500ms & 36.439 & 1,183,007,591.766 \\ \hline
+Direct X & 3946ms & 4.496 & Direct X & 31ms & 0 & ? \\ \hline
+Ericsson & 764ms & 5.997 & Ericsson & 62ms & 8.436 & 5,110,043,791.788 \\ \hline
+\multicolumn{7}{ |c| }{Pattern} \\ \hline
+Relevance 1 & 1809ms & 5.999 & Relevance 1 v1 & 421ms & 27.59 & 1,032,755,351.93 \\ \hline
+Relevance 1 & 1825ms & 5.999 & Relevance 1 v2 & 437ms & 24.24 & 1,175,482,754.626 \\ \hline
+Relevance 2 & 3089ms & 4.799 & Relevance 2 & 500ms & 33.923 & 839,952,886.47 \\ \hline
+Direct X & 4415ms & 4.496 & Direct X & 15ms & 0 & ? \\ \hline
+Ericsson & 764ms & 5.997 & Ericsson & 62ms & 8.858 & 3,216,925,053.101 \\ \hline
+\multicolumn{7}{ |c| }{Wood} \\ \hline
+Relevance 1 & 1888ms & 5.999 & Relevance 1 v1 & 436ms & 25.748 & 1,144,359,365.153 \\ \hline
+Relevance 1 & 1872ms & 5.999 & Relevance 1 v2 & 421ms & 24.428 & 1,206,183,277.641 \\ \hline
+Relevance 2 & 3198ms & 4.799 & Relevance 2 & 531ms & 25.582 & 1,151,777,937.416 \\ \hline
+Direct X & 3510ms & 4.496 & Direct X & 31ms & 0 & ? \\ \hline
+Ericsson & 734ms & 5.997 & Ericsson & 62ms & 4.406 & 6,687,333,399.41 \\ \hline
